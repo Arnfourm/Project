@@ -1,0 +1,106 @@
+a{
+	text-decoration: none;
+}
+#title{
+	position:absolute;
+	top:10px;
+	left:43%;
+}
+#qq{
+	color:white;
+	text-align:center;
+}
+body{
+	background:black;
+}
+#spisok1{
+	font-size:25;
+	color:white;
+}
+#spisok2{
+	font-size:25;
+	color:white;
+}
+#spisok3{
+	font-size:25;
+	color:white;
+}
+#spisok{
+	left:7%;
+	top:75px;
+	position:absolute;
+}
+
+#www:hover{
+	color:red;
+}
+#www{
+	color:white;
+}
+#ww{
+	left:500px;
+	width:900px;
+	color:white;
+	font-size:30px;
+}
+#text{
+	left:17%;
+	position:absolute;
+	top:300px;
+}
+#ee{
+	border:5px white solid;
+	left:900px;
+	position:absolute;
+	width:500px;
+	height:250px;
+}
+
+#rr{
+	color:white;
+}
+#aa{
+	position:absolute;
+	border:3px white solid;
+	left: 22.25%;
+	top:625px;
+}
+
+#text2{
+	position:absolute;
+	top:1100px;
+	left:18.5%;
+	width:900px;
+	height:350px;
+}
+#zz{
+    font-size:25px;
+	color:white;
+}
+
+
+#pp{
+	position:absolute;
+	left:150px;
+	top:250px;
+}
+#ii{
+	color:white;
+}
+
+#ccc{
+	color:white;
+}
+#ccc:hover{
+	color:red;
+}
+
+
+#xx{
+	position:absolute;
+	left:150px;
+	top:1020px;
+}
+#x1{
+	color:white;
+}
