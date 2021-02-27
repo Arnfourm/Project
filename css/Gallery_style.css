@@ -1,0 +1,23 @@
+body{
+	background:black;
+}
+img{
+	position:relative;
+	display: inline-block;
+	width:20%;
+	height: 200px;
+	left: 2%;
+	margin:75px;
+	border-radius: 7%;
+	border:5px dashed white;
+}
+img:hover{
+border:5px dashed red;
+width:25%;
+height:300px;
+opacity: 0.5;
+}
+h1{
+	color:white;
+	text-align:center;
+}
